@@ -9,7 +9,7 @@ A fun memory-based game built using **HTML, CSS, and JavaScript**.
 - Highest score saved in local storage  
 
 ## 🔹 Play the Game
-👉 https://playsimonsaysnow.netlify.app/
+👉 [Click here to play the game](https://playsimonsaysnow.netlify.app/)
 
 ## 🔹 Learnings
 - DOM Manipulation  
